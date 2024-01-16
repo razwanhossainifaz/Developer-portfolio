@@ -193,3 +193,8 @@ section{
     text-decoration: none;
     margin-right: 10px;
 }
+/* footer styles */
+.footer-style
+{
+    text-align: center;
+}
